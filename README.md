@@ -1,6 +1,6 @@
 # Shared Repository
 
-This repository contains the logo and icon for the project.
+This repository contains assets and media for general use in the Chillllama system.
 
 ## Image
 
